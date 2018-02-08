@@ -1,0 +1,41 @@
+
+Gearhead 20-1R requires also a specific flange, as per combination with following motors:
+
+
+at Reduction ratio (23:1, 86:1)
+------------------------------------------------------------------------------------------------------------------
+
+2036U...B
+please add 3D - file name: 20-1R_flange_a
+
+2224U...SR, 2232U...SR and AM2224...-10
+please add 3D - file name: 20-1R_flange_b
+
+1741U...CXR
+please add 3D - file name: 20-1R_flange_c
+
+2057S...B and 2057S...BHS
+please add 3D - file name: 20-1R_flange_d
+
+
+at Reduction ratio (3.71:1, 9.7:1, 14:1, 43:1, 66:1, 112:1, 134:1, 159:1, 190:1, 246:1, 415:1, 592:1, 989:1, 1526:1)
+--------------------------------------------------------------------------------------------------------------------
+
+2036U...B
+please add 3D - file name: 20-1R_flange_a
+
+2224U...SR, 2232U...SR and AM2224...-10
+please add 3D - file name: 20-1R_flange_b
+
+1741U...CXR
+please add 3D - file name: 20-1R_flange_c
+
+2057S...B and 2057S...BHS
+please add 3D - file name: 20-1R_flange_e
+
+
+(c) Copyright 2016, DR.FRITZ FAULHABER GMBH & CO.KG.
+All rights reserved.
+
+
+
