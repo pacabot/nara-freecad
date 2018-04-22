@@ -1,5 +1,5 @@
 # Les ligne commençant par '#' sont des commentaires.
 # Ignorer tous les fichiers de sauvegarde Freecad
 *.fcstd1
-PCB.fcstd
+#PCB.fcstd
 
